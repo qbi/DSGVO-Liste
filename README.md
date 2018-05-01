@@ -52,5 +52,5 @@ Die Liste sammelt Informationsquellen und weitere Ressourcen zur Datenschutz-Gru
 
 ### Kirchen
 
-  * [https://datenschutz.ekd.de/](Beauftragter für den Datenschutz der Evangelischen Kirche in Deutschland)
-  * [https://www.datenschutz-kirche.de/](Datenschutz in der katholischen Kirche)
+  * [Beauftragter für den Datenschutz der Evangelischen Kirche in Deutschland](https://datenschutz.ekd.de/)
+  * [Datenschutz in der katholischen Kirche](https://www.datenschutz-kirche.de/)
