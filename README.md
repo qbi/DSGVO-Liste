@@ -54,3 +54,10 @@ Die Liste sammelt Informationsquellen und weitere Ressourcen zur Datenschutz-Gru
 
   * [Beauftragter für den Datenschutz der Evangelischen Kirche in Deutschland](https://datenschutz.ekd.de/)
   * [Datenschutz in der katholischen Kirche](https://www.datenschutz-kirche.de/)
+  
+  
+## Allgemeine Informationen
+
+  * [13 GDPR Requirements Needed for Total Compliance (and Changes You Can Make
+    Today)](https://plan.io/blog/gdpr-requirements-needed-for-compliance/):
+    Praxiserfahrungen eines Unternehmens mit der Einführung der DS-GVO
