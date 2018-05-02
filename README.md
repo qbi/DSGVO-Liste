@@ -67,3 +67,9 @@ Die Liste sammelt Informationsquellen und weitere Ressourcen zur Datenschutz-Gru
 ### Informationen für kleine Firmen und Vereine
 
   * [Handreichungen für kleine Unternehmen und Vereine des BayLDA](https://www.lda.bayern.de/de/datenschutz_eu.html)
+
+## Blogs
+
+* [Datenschutz-Guru](https://www.datenschutz-guru.de/)
+* [Kategorie DS-GVO bei de lege data](https://www.delegedata.de/category/europa/datenschutz-grundverordnung/)
+* [Kategorie ES-DSGVO bei Diercks Digital Recht](https://diercks-digital-recht.de/category/eu-dsgvo/)
