@@ -32,7 +32,9 @@ Datenschutz-Grundverordnung.
     2018](https://www.baden-wuerttemberg.datenschutz.de/mitteilung-der-kontaktdaten-des-datenschutzbeauftragten-nach-art-37-absatz-7-ds-gvo/))
   * [Meldeformular des BayLDA](https://www.lda.bayern.de/de/dsb-meldung.html)
     (Stand Anfang Mai: noch nicht online)
-  * [Meldeformular des BayLfD](https://www.datenschutz-bayern.de/service/bdsb.html)
+  * [Meldeformular des
+    BayLfD](https://www.datenschutz-bayern.de/service/bdsb.html)
+  * [Informationen zur Meldung an das HmbBfDI](https://www.datenschutz-hamburg.de/datenschutz-fuer-firmen-und-behoerden/betrieblicher-datenschutz/dsb-meldeformular.html) ([PDF-Formular](https://www.datenschutz-hamburg.de/fileadmin/user_upload/documents/DSGVO/MeldeformularDSB.pdf))
 
 ### Meldung einer Datenschutzverletzung
 
