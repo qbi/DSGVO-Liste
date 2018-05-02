@@ -112,8 +112,8 @@ Datenschutz-Grundverordnung.
       Daten](https://www.lda.bayern.de/media/dsk_kpnr_17_besondere_kategorien.pdf)
   18. [Risiko für die Rechte und Freiheiten natürlicher Personen](https://www.lda.bayern.de/media/dsk_kpnr_17_besondere_kategorien.pdf)
 
-	Diese Dokumente werden bei verschiedenen Seiten zum Download angeboten. Hier
-	ist eine Liste weiterer Quellen:
+Diese Dokumente werden bei verschiedenen Seiten zum Download angeboten. Hier ist
+eine Liste weiterer Quellen:
 	
   * [DSK-Kurzpapiere bei
     BfDI](https://www.bfdi.bund.de/DE/Home/Kurzmeldungen/DSGVO_Kurzpapiere1-3.html)
