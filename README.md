@@ -34,7 +34,11 @@ Datenschutz-Grundverordnung.
     (Stand Anfang Mai: noch nicht online)
   * [Meldeformular des
     BayLfD](https://www.datenschutz-bayern.de/service/bdsb.html)
-  * [Informationen zur Meldung an das HmbBfDI](https://www.datenschutz-hamburg.de/datenschutz-fuer-firmen-und-behoerden/betrieblicher-datenschutz/dsb-meldeformular.html) ([PDF-Formular](https://www.datenschutz-hamburg.de/fileadmin/user_upload/documents/DSGVO/MeldeformularDSB.pdf))
+  * [Informationen zur Meldung an das
+    HmbBfDI](https://www.datenschutz-hamburg.de/datenschutz-fuer-firmen-und-behoerden/betrieblicher-datenschutz/dsb-meldeformular.html)
+    ([PDF-Formular](https://www.datenschutz-hamburg.de/fileadmin/user_upload/documents/DSGVO/MeldeformularDSB.pdf))
+  * [Laut LDI NRW können Meldungen erst ab 25. Mai
+2018 abgegeben werden. Formular in Arbeit.](https://www.ldi.nrw.de/mainmenu_Aktuelles/Inhalt/Mitteilungspflicht-der-Kontaktdaten-von-Datenschutzbeauftragten-nach-DS-GVO/Mitteilungspflicht-der-Kontaktdaten-von-Datenschutzbeauftragten-nach-DS-GVO.html)
 
 ### Meldung einer Datenschutzverletzung
 
