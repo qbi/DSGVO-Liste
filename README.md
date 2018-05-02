@@ -154,10 +154,9 @@ eine Liste weiterer Quellen:
 
 ## Podcasts
 
-* [Datenputz.net](https://www.datenputz.net/)
+* [Datenputz.net](https://www.datenputz.net/) Datenschutz für Selbständige & Kreative
 * [DSGVO: Alles zur EU-Datenschutzgrundverordnung – Rechtsbelehrung Folge 54 (Jura-Podcast)](https://rechtsbelehrung.com/dsgvo-alles-zur-eu-datenschutzgrundverordnung-rechtsbelehrung-folge-54-jura-podcast/) ([als Onion-Seite](https://aid2tpvbuzflrffy.onion/dsgvo-alles-zur-eu-datenschutzgrundverordnung-rechtsbelehrung-folge-54-jura-podcast/))
 * [DSGVO: Datenschutzerklärung FAQ – Rechtsbelehrung Folge 55 (Jura-Podcast)](https://rechtsbelehrung.com/dsgvo-datenschutzerklaerung-faq-rechtsbelehrung-folge-55/) ([als Onion-Seite](https://aid2tpvbuzflrffy.onion/dsgvo-datenschutzerklaerung-faq-rechtsbelehrung-folge-55/))
 * [Podcast des Datenschutz-Guru](https://panoptikum.io/podcasts/28294) (siehe
   auch [Blogs](#blogs))
 * [Jurafunk](http://jurafunk.de/) ([Jurafunk Nr. 151: (Fast) alles zur Datenschutz-Grundverordnung](http://www.jurafunk.de/assets/podcasts/jurafunk151.mp3 "Link zur Audioversion"))
-* [Datenputz](https://www.datenputz.net/) Datenschutz für Selbständige & Kreative
