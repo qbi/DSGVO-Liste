@@ -141,11 +141,15 @@ Datenschutz-Grundverordnung.
 
 ## Blogs
 
-* [Datenschutz-Guru](https://www.datenschutz-guru.de/)
+* [Datenschutz-Guru](https://www.datenschutz-guru.de/) (siehe auch [Podcasts](#podcasts))
 * [Kategorie DS-GVO bei de lege data](https://www.delegedata.de/category/europa/datenschutz-grundverordnung/)
 * [Kategorie ES-DSGVO bei Diercks Digital Recht](https://diercks-digital-recht.de/category/eu-dsgvo/)
 
 ## Podcasts
 
+* [Datenputz.net](https://www.datenputz.net/)
 * [DSGVO: Alles zur EU-Datenschutzgrundverordnung – Rechtsbelehrung Folge 54 (Jura-Podcast)](https://rechtsbelehrung.com/dsgvo-alles-zur-eu-datenschutzgrundverordnung-rechtsbelehrung-folge-54-jura-podcast/) ([als Onion-Seite](https://aid2tpvbuzflrffy.onion/dsgvo-alles-zur-eu-datenschutzgrundverordnung-rechtsbelehrung-folge-54-jura-podcast/))
 * [DSGVO: Datenschutzerklärung FAQ – Rechtsbelehrung Folge 55 (Jura-Podcast)](https://rechtsbelehrung.com/dsgvo-datenschutzerklaerung-faq-rechtsbelehrung-folge-55/) ([als Onion-Seite](https://aid2tpvbuzflrffy.onion/dsgvo-datenschutzerklaerung-faq-rechtsbelehrung-folge-55/))
+* [Podcast des Datenschutz-Guru](https://panoptikum.io/podcasts/28294) (siehe
+  auch [Blogs](#blogs))
+* [Jurafunk](http://jurafunk.de/) ([Jurafunk Nr. 151: (Fast) alles zur Datenschutz-Grundverordnung](http://www.jurafunk.de/assets/podcasts/jurafunk151.mp3 "Link zur Audioversion"))
