@@ -23,6 +23,19 @@ Datenschutz-Grundverordnung.
 	
 ## Aufsichtsbehörden
 
+### Meldung des Datenschutzbeauftragten nach Art. 37 Abs.7 DSGVO
+
+  * [Online-Formular des LfDI
+    Baden-Württemberg](https://www.baden-wuerttemberg.datenschutz.de/dsb-online-melden/)
+    (siehe [Meldung vom 2. Mai
+    2018](https://www.baden-wuerttemberg.datenschutz.de/mitteilung-der-kontaktdaten-des-datenschutzbeauftragten-nach-art-37-absatz-7-ds-gvo/))
+  * [Meldeformular des BayLDA](https://www.lda.bayern.de/de/dsb-meldung.html)
+    (Stand Anfang Mai: noch nicht online)
+
+### Meldung einer Datenschutzverletzung
+
+
+
 ### Europa
 
   * [European Data Protection Supervisor (Europäischer Datenschutzbeauftragter)](https://edps.europa.eu/)
