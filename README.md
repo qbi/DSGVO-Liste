@@ -63,3 +63,7 @@ Die Liste sammelt Informationsquellen und weitere Ressourcen zur Datenschutz-Gru
   * [13 GDPR Requirements Needed for Total Compliance (and Changes You Can Make
     Today)](https://plan.io/blog/gdpr-requirements-needed-for-compliance/):
     Praxiserfahrungen eines Unternehmens mit der Einführung der DS-GVO
+
+### Informationen für kleine Firmen und Vereine
+
+  * [Handreichungen für kleine Unternehmen und Vereine des BayLDA](https://www.lda.bayern.de/de/datenschutz_eu.html)
