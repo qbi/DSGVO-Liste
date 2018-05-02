@@ -10,6 +10,7 @@ Datenschutz-Grundverordnung.
 2. [Aufsichtsbehörden](#aufsichtsbehörden)
 3. [Informationen](#informationen)
 4. [Blogs](#blogs)
+5. [Podcasts](#podcasts)
 
 -------------------------------------------------------------------------------
 
@@ -143,3 +144,8 @@ Datenschutz-Grundverordnung.
 * [Datenschutz-Guru](https://www.datenschutz-guru.de/)
 * [Kategorie DS-GVO bei de lege data](https://www.delegedata.de/category/europa/datenschutz-grundverordnung/)
 * [Kategorie ES-DSGVO bei Diercks Digital Recht](https://diercks-digital-recht.de/category/eu-dsgvo/)
+
+## Podcasts
+
+* [DSGVO: Alles zur EU-Datenschutzgrundverordnung – Rechtsbelehrung Folge 54 (Jura-Podcast)](https://rechtsbelehrung.com/dsgvo-alles-zur-eu-datenschutzgrundverordnung-rechtsbelehrung-folge-54-jura-podcast/) ([als Onion-Seite](https://aid2tpvbuzflrffy.onion/dsgvo-alles-zur-eu-datenschutzgrundverordnung-rechtsbelehrung-folge-54-jura-podcast/))
+* [DSGVO: Datenschutzerklärung FAQ – Rechtsbelehrung Folge 55 (Jura-Podcast)](https://rechtsbelehrung.com/dsgvo-datenschutzerklaerung-faq-rechtsbelehrung-folge-55/) ([als Onion-Seite](https://aid2tpvbuzflrffy.onion/dsgvo-datenschutzerklaerung-faq-rechtsbelehrung-folge-55/))
