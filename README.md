@@ -159,3 +159,4 @@ eine Liste weiterer Quellen:
 * [Podcast des Datenschutz-Guru](https://panoptikum.io/podcasts/28294) (siehe
   auch [Blogs](#blogs))
 * [Jurafunk](http://jurafunk.de/) ([Jurafunk Nr. 151: (Fast) alles zur Datenschutz-Grundverordnung](http://www.jurafunk.de/assets/podcasts/jurafunk151.mp3 "Link zur Audioversion"))
+* [Datenputz](https://www.datenputz.net/) Datenschutz für Selbständige & Kreative
