@@ -1,6 +1,17 @@
 # DSGVO-Liste
 
-Die Liste sammelt Informationsquellen und weitere Ressourcen zur Datenschutz-Grundverordnung.
+Die Liste sammelt Informationsquellen und weitere Ressourcen zur
+Datenschutz-Grundverordnung.
+
+-------------------------------------------------------------------------------
+## Inhaltsverzeichnis
+
+1. [Text der Verordnung](#text-der-verordnung)
+2. [Aufsichtsbehörden](#aufsichtsbehörden)
+3. [Informationen](#informationen)
+4. [Blogs](#blogs)
+
+-------------------------------------------------------------------------------
 
 ## Text der Verordnung
 
