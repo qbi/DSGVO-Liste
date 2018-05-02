@@ -69,6 +69,43 @@ Datenschutz-Grundverordnung.
 
 ## Informationen
 
+### Kurzpapiere der Datenschutzkonferenz
+
+  1. [Verzeichnis der Verarbeitungstätigkeiten](https://www.lda.bayern.de/media/dsk_kpnr_1_verzeichnis_verarbeitungstaetigkeiten.pdf)
+  2. [Aufsichtsbefugnisse/Sanktionen](https://www.lda.bayern.de/media/dsk_kpnr_2_sanktionen.pdf)
+  3. [Verarbeitung personenbezogener Daten für
+     Werbung](https://www.lda.bayern.de/media/dsk_kpnr_3_werbung.pdf)
+  4. [Datenübermittlung an
+     Drittländer](https://www.lda.bayern.de/media/dsk_kpnr_4_drittlaender.pdf)
+  5. [Datenschutz-Folgenabschätzung](https://www.lda.bayern.de/media/dsk_kpnr_5_dsfa.pdf)
+  6. [Auskunftsrecht](https://www.lda.bayern.de/media/dsk_kpnr_6_auskunftsrecht.pdf)
+  7. [Marktortprinzip](https://www.lda.bayern.de/media/dsk_kpnr_7_marktortprinzip.pdf)
+  8. [Maßnahmenplan](https://www.lda.bayern.de/media/dsk_kpnr_8_massnahmenplan.pdf)
+  9. [Zertifizierung](https://www.lda.bayern.de/media/dsk_kpnr_9_zertifizierung.pdf)
+  10. [Informationspflichten bei Dritt- und
+      Direkterhebung](https://www.lda.bayern.de/media/dsk_kpnr_10_informationspflichten.pdf)
+  11. [Recht auf
+      Vergessenwerden](https://www.lda.bayern.de/media/dsk_kpnr_11_vergessenwerden.pdf)
+  12. [Datenschutzbeauftragte bei Verantwortlichen und
+      Auftragsverarbeitern](https://www.lda.bayern.de/media/dsk_kpnr_12_datenschutzbeauftragter.pdf)
+  13. [Auftragsverarbeitung](https://www.lda.bayern.de/media/dsk_kpnr_13_auftragsverarbeitung.pdf)
+  14. [Beschäftigtendatenschutz](https://www.lda.bayern.de/media/dsk_kpnr_14_beschaeftigtendatenschutz.pdf)
+  15. [Videoüberwachung](https://www.lda.bayern.de/media/dsk_kpnr_15_videoueberwachung.pdf)
+  16. [Gemeinsam für die Verarbeitung
+      Verantwortliche](https://www.lda.bayern.de/media/dsk_kpnr_16_gemeinsam_verantwortliche.pdf)
+  17. [Besondere Kategorien personenbezogener
+      Daten](https://www.lda.bayern.de/media/dsk_kpnr_17_besondere_kategorien.pdf)
+  18. [Risiko für die Rechte und Freiheiten natürlicher Personen](https://www.lda.bayern.de/media/dsk_kpnr_17_besondere_kategorien.pdf)
+
+	Diese Dokumente werden bei verschiedenen Seiten zum Download angeboten. Hier
+	ist eine Liste weiterer Quellen:
+	
+  * [DSK-Kurzpapiere bei
+    BfDI](https://www.bfdi.bund.de/DE/Home/Kurzmeldungen/DSGVO_Kurzpapiere1-3.html)
+  * [DSK-Kurzpapiere beim
+    BayLDA](https://www.lda.bayern.de/de/datenschutz_eu.html)
+  * [DSK-Kurzpapiere beim TLfDI](https://www.tlfdi.de/tlfdi/europa/europaeischedsgvo/index.aspx)
+
 ### Allgemeine Informationen
 
   * [13 GDPR Requirements Needed for Total Compliance (and Changes You Can Make
