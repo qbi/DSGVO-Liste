@@ -137,13 +137,17 @@ Datenschutz-Grundverordnung.
 
 ### Informationen für kleine Firmen und Vereine
 
-  * [Handreichungen für kleine Unternehmen und Vereine des BayLDA](https://www.lda.bayern.de/de/datenschutz_eu.html)
+  * [Handreichungen für kleine Unternehmen und Vereine des
+    BayLDA](https://www.lda.bayern.de/de/datenschutz_eu.html)
+  * [DSGVO für Vereine von Viennawriter](https://www.viennawriter.net/blog/dsgvo-fuer-vereine/)
 
 ## Blogs
 
 * [Datenschutz-Guru](https://www.datenschutz-guru.de/) (siehe auch [Podcasts](#podcasts))
 * [Kategorie DS-GVO bei de lege data](https://www.delegedata.de/category/europa/datenschutz-grundverordnung/)
-* [Kategorie ES-DSGVO bei Diercks Digital Recht](https://diercks-digital-recht.de/category/eu-dsgvo/)
+* [Kategorie ES-DSGVO bei Diercks Digital
+  Recht](https://diercks-digital-recht.de/category/eu-dsgvo/)
+* [Kategorie DSGVO bei Rechtzweinull](http://www.rechtzweinull.de/archives/category/dsgvo)
 
 ## Podcasts
 
