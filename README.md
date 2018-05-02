@@ -119,6 +119,14 @@ Datenschutz-Grundverordnung.
     BayLDA](https://www.lda.bayern.de/de/datenschutz_eu.html)
   * [DSK-Kurzpapiere beim TLfDI](https://www.tlfdi.de/tlfdi/europa/europaeischedsgvo/index.aspx)
 
+### Beschäftigtendatenschutz
+
+  * [Ratgeber Beschäftigtendatenschutz des LfDI
+    Baden-Württemberg](https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2018/03/Ratgeber-ANDS-2.-Auflage.pdf)
+    ([Ankündigung vom 15. März
+    2018](https://www.baden-wuerttemberg.datenschutz.de/lfdi-gibt-tipps-zur-umsetzung-der-datenschutzgrundverordnung-in-sachen-beschaeftigtendatenschutz/))
+  * [DSK-Kurzpapier Beschäftigtendatenschutz](https://www.lda.bayern.de/media/dsk_kpnr_14_beschaeftigtendatenschutz.pdf)	
+
 ### Allgemeine Informationen
 
   * [13 GDPR Requirements Needed for Total Compliance (and Changes You Can Make
