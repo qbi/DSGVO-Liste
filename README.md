@@ -150,6 +150,7 @@ eine Liste weiterer Quellen:
 * [Kategorie ES-DSGVO bei Diercks Digital
   Recht](https://diercks-digital-recht.de/category/eu-dsgvo/)
 * [Kategorie DSGVO bei Rechtzweinull](http://www.rechtzweinull.de/archives/category/dsgvo)
+* [Kategorie Datenschutz beim Vienna Writer's Blog & PodCast](https://www.viennawriter.net/blog/category/datenschutz/) (Blog Serie zur DSGVO in AT.)
 
 ## Podcasts
 
