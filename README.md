@@ -6,7 +6,7 @@ Datenschutz-Grundverordnung.
 -------------------------------------------------------------------------------
 ## Inhaltsverzeichnis
 
-1. [Text der Verordnung](#text-der-verordnung)
+1. [Gesetzestexte](#gesetzestexte)
 2. [Aufsichtsbehörden](#aufsichtsbehörden)
 3. [Informationen](#informationen)
 4. [Blogs](#blogs)
@@ -14,12 +14,12 @@ Datenschutz-Grundverordnung.
 
 -------------------------------------------------------------------------------
 
-## Text der Verordnung
+## Gesetzestexte
 
   * [Datenschutz-Grundverordnung (DSGVO)](https://dsgvo-gesetz.de/)
   * [General Data Protection Regulation (GDPR)](https://gdpr-info.eu/)
   * [Erwägungsgründe zur DS-GVO](https://dsgvo-gesetz.de/erwaegungsgruende/)
-  * [Neufassung des Bundesdatenschutzesetzes
+  * [Neufassung des Bundesdatenschutzgesetzes
     (BDSG-neu)](https://dsgvo-gesetz.de/bdsg-neu/)
 	
 ## Aufsichtsbehörden
