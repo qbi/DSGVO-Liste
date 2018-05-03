@@ -57,6 +57,7 @@ Datenschutz-Grundverordnung.
     Baden-Württemberg](https://www.baden-wuerttemberg.datenschutz.de/)
   * [Bayerischer Landesbeauftragter für den
     Datenschutz](https://www.datenschutz-bayern.de/)
+  * [Bayerischen Landesamt für Datenschutzaufsicht (BayLDA)](https://www.lda.bayern.de/de/dsb-meldung.html)
   * [Berliner Beauftragte für Datenschutz und
     Informationsfreiheit](https://www.datenschutz-berlin.de/)
   * [Landesbeauftragte für den Datenschutz und für das Recht auf Akteneinsicht
