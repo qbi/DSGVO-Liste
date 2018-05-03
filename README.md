@@ -95,6 +95,7 @@ Datenschutz-Grundverordnung.
   * [Fragebogen zur Umsetzung der DS-GVO
     (PDF)](https://www.lda.bayern.de/media/dsgvo_fragebogen.pdf)
   * [DS-GVO-Selbsteinschätzung](https://www.lda.bayern.de/tool/start.html)
+  * [Webinaraufzeichnung: Umsetzung der DSGVO mit der GM-Methode](https://www.datenschutz-guru.de/webinaraufzeichnung-umsetzung-der-dsgvo-mit-der-gm-methode/)
 
 ## Informationen
 
