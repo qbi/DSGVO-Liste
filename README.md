@@ -8,6 +8,7 @@ Datenschutz-Grundverordnung.
 
 1. [Gesetzestexte](#gesetzestexte)
 2. [Aufsichtsbehörden](#aufsichtsbehörden)
+3. [Umsetzung](#umsetzung)
 3. [Informationen](#informationen)
 4. [Blogs](#blogs)
 5. [Podcasts](#podcasts)
@@ -88,6 +89,12 @@ Datenschutz-Grundverordnung.
   * [Beauftragter für den Datenschutz der Evangelischen Kirche in Deutschland](https://datenschutz.ekd.de/)
   * [Datenschutz in der katholischen Kirche](https://www.datenschutz-kirche.de/)
   
+
+## Umsetzung
+
+  * [Fragebogen zur Umsetzung der DS-GVO
+    (PDF)](https://www.lda.bayern.de/media/dsgvo_fragebogen.pdf)
+  * [DS-GVO-Selbsteinschätzung](https://www.lda.bayern.de/tool/start.html)
 
 ## Informationen
 
