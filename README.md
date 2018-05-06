@@ -97,7 +97,22 @@ Datenschutz-Grundverordnung.
   * [DS-GVO-Selbsteinschätzung](https://www.lda.bayern.de/tool/start.html)
   * [Webinaraufzeichnung: Umsetzung der DSGVO mit der
     GM-Methode](https://www.datenschutz-guru.de/webinaraufzeichnung-umsetzung-der-dsgvo-mit-der-gm-methode/)
-  * [Kurzpapier Nr. 8 Maßnahmenplan „DS-GVO“ für Unternehmen](https://www.lda.bayern.de/media/dsk_kpnr_8_massnahmenplan.pdf)
+  * [Kurzpapier Nr. 8 Maßnahmenplan „DS-GVO“ für
+    Unternehmen](https://www.lda.bayern.de/media/dsk_kpnr_8_massnahmenplan.pdf)
+	
+### Datenschutzbeauftragter
+
+### Verzeichnis der Verarbeitungstätigkeiten
+
+### Datenschutzerklärung / Informationspflichten
+
+### Newsletter
+
+### Datenschutz-Folgeabschätzung
+
+### Videoüberwachung
+
+### Beschäftigtendatenschutz
 
 ## Informationen
 
