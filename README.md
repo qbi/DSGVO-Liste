@@ -107,6 +107,7 @@ Datenschutz-Grundverordnung.
 ### Datenschutzerklärung / Informationspflichten
 
 ### Newsletter
+  * [MailChimp, Newsletter und Datenschutz – Anleitung mit Muster und Checkliste](https://drschwenke.de/mailchimp-newsletter-datenschutz-muster-checkliste/) ([Kopie der Seite bei archive.is](http://archive.is/aJP4h))
 
 ### Datenschutz-Folgeabschätzung
 
