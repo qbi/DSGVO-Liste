@@ -106,6 +106,9 @@ Datenschutz-Grundverordnung.
 
 ### Datenschutzerklärung / Informationspflichten
 
+  * [Datenschutz-Generator](http://datenschutz-generator.de/ "Musterdatenschutzerklärung für Privatpersonen
+und Kleinunternehmer von Dr. Thomas Schwenke") ([Onion-Seite](https://4gavujr4u4prcbsn.onion/))
+
 ### Newsletter
   * [MailChimp, Newsletter und Datenschutz – Anleitung mit Muster und Checkliste](https://drschwenke.de/mailchimp-newsletter-datenschutz-muster-checkliste/) ([Kopie der Seite bei archive.is](http://archive.is/aJP4h))
 
