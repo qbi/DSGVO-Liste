@@ -184,6 +184,8 @@ eine Liste weiterer Quellen:
   * [Handreichungen für kleine Unternehmen und Vereine des
     BayLDA](https://www.lda.bayern.de/de/datenschutz_eu.html)
   * [DSGVO für Vereine von Viennawriter](https://www.viennawriter.net/blog/dsgvo-fuer-vereine/)
+  * [Webinar: Datenschutz-Grundverordnung für kleine
+  Vereine mit Thomas Kranig, BayLDA](https://www.reparatur-initiativen.de/post/webinar-datenschutz-grundverordnung-fuer-kleine-vereine)
 
 ## Blogs
 
@@ -202,3 +204,5 @@ eine Liste weiterer Quellen:
 * [Podcast des Datenschutz-Guru](https://panoptikum.io/podcasts/28294) (siehe
   auch [Blogs](#blogs))
 * [Jurafunk](http://jurafunk.de/) ([Jurafunk Nr. 151: (Fast) alles zur Datenschutz-Grundverordnung](http://www.jurafunk.de/assets/podcasts/jurafunk151.mp3 "Link zur Audioversion"))
+* [Webinar: Datenschutz-Grundverordnung für kleine
+Vereine mit Thomas Kranig, BayLDA](https://www.reparatur-initiativen.de/post/webinar-datenschutz-grundverordnung-fuer-kleine-vereine)
