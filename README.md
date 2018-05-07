@@ -26,7 +26,8 @@ Datenschutz-Grundverordnung.
 ## Aufsichtsbehörden
 
 ### Meldung des Datenschutzbeauftragten nach Art. 37 Abs.7 DSGVO
-
+  * Berlin: Formlose E-Mail oder Kontaktformular auf der Webseite (Stand Mai: In
+    Arbeit)
   * [Online-Formular des LfDI
     Baden-Württemberg](https://www.baden-wuerttemberg.datenschutz.de/dsb-online-melden/)
     (siehe [Meldung vom 2. Mai
