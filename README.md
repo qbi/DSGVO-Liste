@@ -114,7 +114,15 @@ und Kleinunternehmer von Dr. Thomas Schwenke") ([Onion-Seite](https://4gavujr4u4
 ### Newsletter
   * [MailChimp, Newsletter und Datenschutz – Anleitung mit Muster und Checkliste](https://drschwenke.de/mailchimp-newsletter-datenschutz-muster-checkliste/) ([Kopie der Seite bei archive.is](http://archive.is/aJP4h))
 
-### Datenschutz-Folgeabschätzung
+### Datenschutz-Folgenabschätzung
+
+  * [DSK-Kurzpapier Nr. 5:
+Datenschutz-Folgenabschätzung nach Abs. 35
+DS-GVO](https://www.ldi.nrw.de/mainmenu_Aktuelles/submenu_EU-Datenschutzreform/Inhalt/EU-Datenschutzreform/KP_5_Datenschutz-Folgenabschaetzung.pdf)
+  * [DSK-Kurzpapier Nr. 18: Risiko für die Rechte
+und Freiheiten natürlicher
+Personen](https://www.ldi.nrw.de/mainmenu_Aktuelles/submenu_EU-Datenschutzreform/Inhalt/EU-Datenschutzreform/KP_18_Risiko.pdf)
+  * [WP248: Leitlinien zur Datenschutz-Folgenabschätzung](https://www.ldi.nrw.de/mainmenu_Service/submenu_Newsarchiv/Inhalt/Leitlinien_der_Art__29-Gruppe_zur_EU_DSGVO/wp248-rev_01.pdf)
 
 ### Videoüberwachung
 
