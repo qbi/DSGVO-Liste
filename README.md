@@ -100,6 +100,7 @@ Datenschutz-Grundverordnung.
     GM-Methode](https://www.datenschutz-guru.de/webinaraufzeichnung-umsetzung-der-dsgvo-mit-der-gm-methode/)
   * [Kurzpapier Nr. 8 Maßnahmenplan „DS-GVO“ für
     Unternehmen](https://www.lda.bayern.de/media/dsk_kpnr_8_massnahmenplan.pdf)
+  * [Preparing for the GDPR](https://ico.org.uk/media/1624219/preparing-for-the-gdpr-12-steps.pdf)
 	
 ### Datenschutzbeauftragter
 
