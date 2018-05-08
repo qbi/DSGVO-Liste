@@ -178,6 +178,9 @@ eine Liste weiterer Quellen:
   * [13 GDPR Requirements Needed for Total Compliance (and Changes You Can Make
     Today)](https://plan.io/blog/gdpr-requirements-needed-for-compliance/):
     Praxiserfahrungen eines Unternehmens mit der Einführung der DS-GVO
+  * [WordPress und die DSGVO - Zusammenstellung für Umzug und
+    Konfiguration](https://www.bdsg-externer-datenschutzbeauftragter.de/dsgvo/wordpress-und-die-dsgvo-zusammenstellung-fuer-umzug-und-konfiguration/)
+  * [Woordpress und DSGVO](https://docs.google.com/document/d/1Y5Nr8i9Rg0P8PM-EiajVgJ8an0c8JVgNTNPXuIozeWQ/edit)
 
 ### Informationen für kleine Firmen und Vereine
 
