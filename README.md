@@ -186,7 +186,11 @@ eine Liste weiterer Quellen:
 
   * [Handreichungen für kleine Unternehmen und Vereine des
     BayLDA](https://www.lda.bayern.de/de/datenschutz_eu.html)
-  * [DSGVO für Vereine von Viennawriter](https://www.viennawriter.net/blog/dsgvo-fuer-vereine/)
+  * [DSGVO für Vereine von
+    Viennawriter](https://www.viennawriter.net/blog/dsgvo-fuer-vereine/)
+  * [Datenschutz im Verein nach der Daten-schutzgrundverordnung
+    (DS-GVO)](https://www.baden-wuerttemberg.datenschutz.de/wp-content/uploads/2018/03/OH-Datenschutz-im-Verein-nach-der-DSGVO.pdf)
+    (Orientierungshilfe des LfD BW)
   * [Webinar: Datenschutz-Grundverordnung für kleine
   Vereine mit Thomas Kranig, BayLDA](https://www.reparatur-initiativen.de/post/webinar-datenschutz-grundverordnung-fuer-kleine-vereine)
 
