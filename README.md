@@ -134,6 +134,10 @@ Personen](https://www.ldi.nrw.de/mainmenu_Aktuelles/submenu_EU-Datenschutzreform
     2018](https://www.baden-wuerttemberg.datenschutz.de/lfdi-gibt-tipps-zur-umsetzung-der-datenschutzgrundverordnung-in-sachen-beschaeftigtendatenschutz/))
   * [DSK-Kurzpapier Beschäftigtendatenschutz](https://www.lda.bayern.de/media/dsk_kpnr_14_beschaeftigtendatenschutz.pdf)	
 
+### Newsletter
+
+  * [E-Mail-Marketing 2018: Was ändert sich durch die DSGVO in Bezug auf Newsletter?](https://www.it-recht-kanzlei.de/newsletter-datenschutzgrundverordnung-dsgvo.html)
+
 ## Informationen
 
 ### Kurzpapiere der Datenschutzkonferenz
