@@ -136,7 +136,9 @@ Personen](https://www.ldi.nrw.de/mainmenu_Aktuelles/submenu_EU-Datenschutzreform
 
 ### Newsletter
 
-  * [E-Mail-Marketing 2018: Was ändert sich durch die DSGVO in Bezug auf Newsletter?](https://www.it-recht-kanzlei.de/newsletter-datenschutzgrundverordnung-dsgvo.html)
+  * [E-Mail-Marketing 2018: Was ändert sich durch die DSGVO in Bezug auf
+    Newsletter?](https://www.it-recht-kanzlei.de/newsletter-datenschutzgrundverordnung-dsgvo.html)
+  * [E-Mail-Marketing und das Privacy Shield – Gibt es Änderungsbedarf aufgrund des neuen EU-Datenschutzrechts?](https://www.sc-networks.de/blog/privacy-shield-vs-dsgvo-rechtslage-beachten/)
 
 ## Informationen
 
@@ -184,7 +186,10 @@ eine Liste weiterer Quellen:
     Praxiserfahrungen eines Unternehmens mit der Einführung der DS-GVO
   * [WordPress und die DSGVO - Zusammenstellung für Umzug und
     Konfiguration](https://www.bdsg-externer-datenschutzbeauftragter.de/dsgvo/wordpress-und-die-dsgvo-zusammenstellung-fuer-umzug-und-konfiguration/)
-  * [Woordpress und DSGVO](https://docs.google.com/document/d/1Y5Nr8i9Rg0P8PM-EiajVgJ8an0c8JVgNTNPXuIozeWQ/edit)
+  * [Wordpress und
+    DSGVO](https://docs.google.com/document/d/1Y5Nr8i9Rg0P8PM-EiajVgJ8an0c8JVgNTNPXuIozeWQ/edit)
+  * [FAQ des Bundesministerium des Innern, für Bau
+und Heimat](https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2018/04/faqs-datenschutz-grundverordnung.html)
 
 ### Informationen für kleine Firmen und Vereine
 
