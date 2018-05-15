@@ -26,8 +26,6 @@ Datenschutz-Grundverordnung.
 ## Aufsichtsbehörden
 
 ### Meldung des Datenschutzbeauftragten nach Art. 37 Abs.7 DSGVO
-  * Berlin: Formlose E-Mail oder Kontaktformular auf der Webseite (Stand Mai: In
-    Arbeit)
   * [Online-Formular des LfDI
     Baden-Württemberg](https://www.baden-wuerttemberg.datenschutz.de/dsb-online-melden/)
     (siehe [Meldung vom 2. Mai
@@ -36,6 +34,8 @@ Datenschutz-Grundverordnung.
     (Stand Anfang Mai: noch nicht online)
   * [Meldeformular des
     BayLfD](https://www.datenschutz-bayern.de/service/bdsb.html)
+  * Berlin: Formlose E-Mail oder Kontaktformular auf der Webseite (Stand Mai: In
+    Arbeit)
   * [Informationen zur Meldung an das
     HmbBfDI](https://www.datenschutz-hamburg.de/datenschutz-fuer-firmen-und-behoerden/betrieblicher-datenschutz/dsb-meldeformular.html)
     ([PDF-Formular](https://www.datenschutz-hamburg.de/fileadmin/user_upload/documents/DSGVO/MeldeformularDSB.pdf))
