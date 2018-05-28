@@ -42,6 +42,7 @@ Datenschutz-Grundverordnung.
   * [Benennung eines Datenschutzbeauftragten für Hessen](https://datenschutz.hessen.de/service/benennung-eines-datenschutzbeauftragten)
   * [Laut LDI NRW können Meldungen erst ab 25. Mai
 2018 abgegeben werden. Formular in Arbeit.](https://www.ldi.nrw.de/mainmenu_Aktuelles/Inhalt/Mitteilungspflicht-der-Kontaktdaten-von-Datenschutzbeauftragten-nach-DS-GVO/Mitteilungspflicht-der-Kontaktdaten-von-Datenschutzbeauftragten-nach-DS-GVO.html)
+  * [Word-Formular zur Meldung des DSB an das TLfDI](https://www.tlfdi.de/mam/tlfdi/datenschutz/formular_zur_meldung_eines_datenschutzbeauftragten.docx)
 
 ### Meldung einer Datenschutzverletzung
 
