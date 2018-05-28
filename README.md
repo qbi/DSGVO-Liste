@@ -47,6 +47,7 @@ Datenschutz-Grundverordnung.
 ### Meldung einer Datenschutzverletzung
 
   * [Meldeformular des BayLfD](https://www.datenschutz-bayern.de/service/data_breach.html)
+  * [Word-Formular zur Meldung einer DSV an das TLfDI](https://www.tlfdi.de/mam/tlfdi/datenschutz/formular_zur_meldung_einer_datenpanne.docx)
 
 ### Europa
 
