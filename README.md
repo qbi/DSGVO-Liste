@@ -43,7 +43,7 @@ Datenschutz-Grundverordnung.
   * [Laut LDI NRW können Meldungen erst ab 25. Mai
 2018 abgegeben werden. Formular in Arbeit.](https://www.ldi.nrw.de/mainmenu_Aktuelles/Inhalt/Mitteilungspflicht-der-Kontaktdaten-von-Datenschutzbeauftragten-nach-DS-GVO/Mitteilungspflicht-der-Kontaktdaten-von-Datenschutzbeauftragten-nach-DS-GVO.html)
   * [Meldeformular des Sächsischen Datenschutzbeauftragten](https://www.saechsdsb.de/ihre-dsb-meldung) (Es gibt ebenfalls ein [PDF-Formular](https://www.saechsdsb.de/images/stories/sdb_inhalt/allgemein/DSB-DSGVO.pdf) zur Meldung.)
-  * [Meldeformular des LfD Sachsen-Anhalt(https://datenschutz.sachsen-anhalt.de/nc/service/online-formulare-des-landesbeauftragten/datenschutzbeauftragten-melden/)
+  * [Meldeformular des LfD Sachsen-Anhalt](https://datenschutz.sachsen-anhalt.de/nc/service/online-formulare-des-landesbeauftragten/datenschutzbeauftragten-melden/)
   * [Word-Formular zur Meldung des DSB an das TLfDI](https://www.tlfdi.de/mam/tlfdi/datenschutz/formular_zur_meldung_eines_datenschutzbeauftragten.docx)
 
 ### Meldung einer Datenschutzverletzung
