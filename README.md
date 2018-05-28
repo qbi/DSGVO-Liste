@@ -42,11 +42,13 @@ Datenschutz-Grundverordnung.
   * [Benennung eines Datenschutzbeauftragten für Hessen](https://datenschutz.hessen.de/service/benennung-eines-datenschutzbeauftragten)
   * [Laut LDI NRW können Meldungen erst ab 25. Mai
 2018 abgegeben werden. Formular in Arbeit.](https://www.ldi.nrw.de/mainmenu_Aktuelles/Inhalt/Mitteilungspflicht-der-Kontaktdaten-von-Datenschutzbeauftragten-nach-DS-GVO/Mitteilungspflicht-der-Kontaktdaten-von-Datenschutzbeauftragten-nach-DS-GVO.html)
+  * [Meldeformular des LfD Sachsen-Anhalt(https://datenschutz.sachsen-anhalt.de/nc/service/online-formulare-des-landesbeauftragten/datenschutzbeauftragten-melden/)
   * [Word-Formular zur Meldung des DSB an das TLfDI](https://www.tlfdi.de/mam/tlfdi/datenschutz/formular_zur_meldung_eines_datenschutzbeauftragten.docx)
 
 ### Meldung einer Datenschutzverletzung
 
   * [Meldeformular des BayLfD](https://www.datenschutz-bayern.de/service/data_breach.html)
+  * [Meldung einer DSV an den LfD Sachsen-Anhalt](https://datenschutz.sachsen-anhalt.de/nc/service/online-formulare-des-landesbeauftragten/datenschutzverletzung/)
   * [Word-Formular zur Meldung einer DSV an das TLfDI](https://www.tlfdi.de/mam/tlfdi/datenschutz/formular_zur_meldung_einer_datenpanne.docx)
 
 ### Europa
