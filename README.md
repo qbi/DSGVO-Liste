@@ -111,6 +111,7 @@ Datenschutz-Grundverordnung.
 
   * [Datenschutz-Generator](http://datenschutz-generator.de/ "Musterdatenschutzerklärung für Privatpersonen
 und Kleinunternehmer von Dr. Thomas Schwenke") ([Onion-Seite](https://4gavujr4u4prcbsn.onion/))
+  * [Musterdatenschutzerklärung von Prof. Hören am  Institut für Informations-, Telekommunikations- und Medienrecht der Uni Münster](https://www.uni-muenster.de/Jura.itm/hoeren/lehre/materialien/musterdatenschutzerklaerung)
 
 ### Newsletter
   * [MailChimp, Newsletter und Datenschutz – Anleitung mit Muster und Checkliste](https://drschwenke.de/mailchimp-newsletter-datenschutz-muster-checkliste/) ([Kopie der Seite bei archive.is](http://archive.is/aJP4h))
