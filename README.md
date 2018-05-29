@@ -104,8 +104,9 @@ Arbeit.](https://www.ldi.nrw.de/mainmenu_Aktuelles/Inhalt/Mitteilungspflicht-der
 
 ## Umsetzung
 
-  * [Fragebogen zur Umsetzung der DS-GVO
+  * [Fragebogen zur Umsetzung der DS-GVO vom LDA Bayern
     (PDF)](https://www.lda.bayern.de/media/dsgvo_fragebogen.pdf)
+  * [Fragebogen zur Umsetzung in kleinen und mittleren Unternehmen vom LDA Brandenburg](http://www.lda.brandenburg.de/cms/detail.php/bb1.c.542407.de)
   * [DS-GVO-Selbsteinschätzung](https://www.lda.bayern.de/tool/start.html)
   * [Webinaraufzeichnung: Umsetzung der DSGVO mit der
     GM-Methode](https://www.datenschutz-guru.de/webinaraufzeichnung-umsetzung-der-dsgvo-mit-der-gm-methode/)
