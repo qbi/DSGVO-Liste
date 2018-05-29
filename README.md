@@ -35,6 +35,7 @@ Datenschutz-Grundverordnung.
   * [Meldeformular des
     BayLfD](https://www.datenschutz-bayern.de/service/bdsb.html)
   * Berlin: [Meldeformular des BlnBDI](https://datenschutz-berlin.de//meldeformular.html)
+  * Brandenburg: [Meldeformular des LDA Brandenburg](https://lda.brandenburg.de/cms/detail.php/bb1.c.233960.de/bbo_contact)
   * [Informationen zur Meldung an das
     HmbBfDI](https://www.datenschutz-hamburg.de/datenschutz-fuer-firmen-und-behoerden/betrieblicher-datenschutz/dsb-meldeformular.html)
     ([PDF-Formular](https://www.datenschutz-hamburg.de/fileadmin/user_upload/documents/DSGVO/MeldeformularDSB.pdf))
