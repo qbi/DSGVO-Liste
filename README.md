@@ -34,8 +34,7 @@ Datenschutz-Grundverordnung.
     (Stand Anfang Mai: noch nicht online)
   * [Meldeformular des
     BayLfD](https://www.datenschutz-bayern.de/service/bdsb.html)
-  * Berlin: Formlose E-Mail oder Kontaktformular auf der Webseite (Stand Mai: In
-    Arbeit)
+  * Berlin: [Meldeformular des BlnBDI](https://datenschutz-berlin.de//meldeformular.html)
   * [Informationen zur Meldung an das
     HmbBfDI](https://www.datenschutz-hamburg.de/datenschutz-fuer-firmen-und-behoerden/betrieblicher-datenschutz/dsb-meldeformular.html)
     ([PDF-Formular](https://www.datenschutz-hamburg.de/fileadmin/user_upload/documents/DSGVO/MeldeformularDSB.pdf))
