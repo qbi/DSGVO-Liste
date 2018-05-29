@@ -118,7 +118,8 @@ Arbeit.](https://www.ldi.nrw.de/mainmenu_Aktuelles/Inhalt/Mitteilungspflicht-der
 
 ### Verzeichnis der Verarbeitungstätigkeiten
 
-  * [Musterverzeichnis des LDA Brandenburg](http://www.lda.brandenburg.de/cms/detail.php/bb1.c.587753.de)
+  * [Musterverzeichnis für Verantwortliche des LDA Brandenburg](http://www.lda.brandenburg.de/cms/detail.php/bb1.c.587753.de)
+  * [Musterverzeichnis für Auftragsverarbeiter des LDA Brandenburg](http://www.lda.brandenburg.de/cms/detail.php/bb1.c.587754.de)
 
 ### Datenschutzerklärung / Informationspflichten
 
