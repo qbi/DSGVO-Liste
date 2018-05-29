@@ -137,6 +137,10 @@ und Freiheiten natürlicher
 Personen](https://www.ldi.nrw.de/mainmenu_Aktuelles/submenu_EU-Datenschutzreform/Inhalt/EU-Datenschutzreform/KP_18_Risiko.pdf)
   * [WP248: Leitlinien zur Datenschutz-Folgenabschätzung](https://www.ldi.nrw.de/mainmenu_Service/submenu_Newsarchiv/Inhalt/Leitlinien_der_Art__29-Gruppe_zur_EU_DSGVO/wp248-rev_01.pdf)
 
+#### Listen von Verarbeitungsvorgängen für eine DSFA
+
+  * [Liste des LDA Brandenburg](http://www.lda.brandenburg.de/cms/detail.php/bb1.c.542407.de)
+
 ### Videoüberwachung
 
 ### Beschäftigtendatenschutz
