@@ -43,7 +43,7 @@ Datenschutz-Grundverordnung.
     ([PDF-Formular](https://www.datenschutz-hamburg.de/fileadmin/user_upload/documents/DSGVO/MeldeformularDSB.pdf))
   * Hessen: [Benennung eines Datenschutzbeauftragten für
     Hessen](https://datenschutz.hessen.de/service/benennung-eines-datenschutzbeauftragten)
-  * Mecklenburg-Vorpommern:
+  * Mecklenburg-Vorpommern: [Meldeformular des LfDI M-V](https://www.datenschutz-mv.de/kontakt/Mitteilung-von-Datenschutzbeauftragten/)
   * Niedersachsen: [Meldeformular des LfD Niedersachsen](https://www.navo.niedersachsen.de/navo2/portal/csend/8916/fileget/artikel_33.html)
   * Nordrhein-Westfalen: [Laut LDI NRW können Meldungen erst ab 25. Mai
 2018 abgegeben werden. Formular in
