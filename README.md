@@ -35,19 +35,26 @@ Datenschutz-Grundverordnung.
   * [Meldeformular des
     BayLfD](https://www.datenschutz-bayern.de/service/bdsb.html)
   * Berlin: [Meldeformular des BlnBDI](https://datenschutz-berlin.de//meldeformular.html)
-  * Brandenburg: [Meldeformular des LDA Brandenburg](https://lda.brandenburg.de/cms/detail.php/bb1.c.233960.de/bbo_contact)
-  * [Informationen zur Meldung an das
+  * Brandenburg: [Meldeformular des LDA
+    Brandenburg](https://lda.brandenburg.de/cms/detail.php/bb1.c.233960.de/bbo_contact)
+  * Bremen:
+  * Hamburg: [Informationen zur Meldung an das
     HmbBfDI](https://www.datenschutz-hamburg.de/datenschutz-fuer-firmen-und-behoerden/betrieblicher-datenschutz/dsb-meldeformular.html)
     ([PDF-Formular](https://www.datenschutz-hamburg.de/fileadmin/user_upload/documents/DSGVO/MeldeformularDSB.pdf))
-  * [Benennung eines Datenschutzbeauftragten für Hessen](https://datenschutz.hessen.de/service/benennung-eines-datenschutzbeauftragten)
-  * [Laut LDI NRW können Meldungen erst ab 25. Mai
+  * Hessen: [Benennung eines Datenschutzbeauftragten für
+    Hessen](https://datenschutz.hessen.de/service/benennung-eines-datenschutzbeauftragten)
+  * Mecklenburg-Vorpommern:
+  * Niedersachsen: 
+  * Nordrhein-Westfalen: [Laut LDI NRW können Meldungen erst ab 25. Mai
 2018 abgegeben werden. Formular in
 Arbeit.](https://www.ldi.nrw.de/mainmenu_Aktuelles/Inhalt/Mitteilungspflicht-der-Kontaktdaten-von-Datenschutzbeauftragten-nach-DS-GVO/Mitteilungspflicht-der-Kontaktdaten-von-Datenschutzbeauftragten-nach-DS-GVO.html)
-  * [Meldeformular des LfDI Rheinland-Pfalz](https://www.datenschutz.rlp.de/de/themenfelder-themen/online-services/meldeformular-datenschutzbeauftragter-gem-art-37-abs-7-ds-gvo/)
-  * [Meldeformular des Unabhängigen Datenschutzzentrums Saarland](https://datenschutz.saarland.de/meldungen/meldeformular-datenschutzbeauftragter/)
-  * [Meldeformular des Sächsischen Datenschutzbeauftragten](https://www.saechsdsb.de/ihre-dsb-meldung) (Es gibt ebenfalls ein [PDF-Formular](https://www.saechsdsb.de/images/stories/sdb_inhalt/allgemein/DSB-DSGVO.pdf) zur Meldung.)
-  * [Meldeformular des LfD Sachsen-Anhalt](https://datenschutz.sachsen-anhalt.de/nc/service/online-formulare-des-landesbeauftragten/datenschutzbeauftragten-melden/)
-  * [Word-Formular zur Meldung des DSB an das TLfDI](https://www.tlfdi.de/mam/tlfdi/datenschutz/formular_zur_meldung_eines_datenschutzbeauftragten.docx)
+  * Rheinland-Pfalz: [Meldeformular des LfDI Rheinland-Pfalz](https://www.datenschutz.rlp.de/de/themenfelder-themen/online-services/meldeformular-datenschutzbeauftragter-gem-art-37-abs-7-ds-gvo/)
+  * Saarland: [Meldeformular des Unabhängigen Datenschutzzentrums Saarland](https://datenschutz.saarland.de/meldungen/meldeformular-datenschutzbeauftragter/)
+  * Sachsen: [Meldeformular des Sächsischen Datenschutzbeauftragten](https://www.saechsdsb.de/ihre-dsb-meldung) (Es gibt ebenfalls ein [PDF-Formular](https://www.saechsdsb.de/images/stories/sdb_inhalt/allgemein/DSB-DSGVO.pdf) zur Meldung.)
+  * Sachsen-Anhalt: [Meldeformular des LfD
+    Sachsen-Anhalt](https://datenschutz.sachsen-anhalt.de/nc/service/online-formulare-des-landesbeauftragten/datenschutzbeauftragten-melden/)
+  * Schleswig-Holstein:
+  * Thüringen: [Word-Formular zur Meldung des DSB an das TLfDI](https://www.tlfdi.de/mam/tlfdi/datenschutz/formular_zur_meldung_eines_datenschutzbeauftragten.docx)
 
 ### Meldung einer Datenschutzverletzung
 
