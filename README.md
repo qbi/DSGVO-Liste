@@ -116,6 +116,10 @@ Arbeit.](https://www.ldi.nrw.de/mainmenu_Aktuelles/Inhalt/Mitteilungspflicht-der
 	
 ### Datenschutzbeauftragter
 
+### Auftragsverarbeitung
+
+  * [Keine gesonderte Entgeltpflicht für Kontrollen bei der Auftragsverarbeitung](https://www.datenschutz-bayern.de/datenschutzreform2018/aki06.html) (BayLfD)
+
 ### Verzeichnis der Verarbeitungstätigkeiten
 
   * [Musterverzeichnis für Verantwortliche des LDA Brandenburg](http://www.lda.brandenburg.de/cms/detail.php/bb1.c.587753.de)
