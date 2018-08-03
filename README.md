@@ -63,7 +63,7 @@ Arbeit.](https://www.ldi.nrw.de/mainmenu_Aktuelles/Inhalt/Mitteilungspflicht-der
   * Brandenburg:
   * Berlin: [Verweis zum PDF-Meldeformular des BlnBDI](https://datenschutz-berlin.de/datenpannenformular.html)
   * Bremen:
-  * Hamburg:
+  * Hamburg: [zukünftiges Meldeformular des HmbBfDI](https://datenschutz-hamburg.de/pages/databreach/)
   * Hessen:
   * Mecklenburg-Vorpommern:
   * Niedersachsen:
