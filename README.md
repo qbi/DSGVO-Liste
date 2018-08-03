@@ -57,12 +57,25 @@ Arbeit.](https://www.ldi.nrw.de/mainmenu_Aktuelles/Inhalt/Mitteilungspflicht-der
   * Thüringen: [Word-Formular zur Meldung des DSB an das TLfDI](https://www.tlfdi.de/mam/tlfdi/datenschutz/formular_zur_meldung_eines_datenschutzbeauftragten.docx)
 
 ### Meldung einer Datenschutzverletzung
-
-  * [Meldeformular des
+  * Baden-Württemberg: [Für Verantwortliche: Datenpanne melden](https://www.baden-wuerttemberg.datenschutz.de/datenpanne-melden/)
+  * Bayern: [Meldeformular des
     BayLfD](https://www.datenschutz-bayern.de/service/data_breach.html)
-  * [Meldeformular des LfDI Rheinland-Pfalz](https://www.datenschutz.rlp.de/de/themenfelder-themen/online-services/meldeformular-datenpanne-art-33-ds-gvo/)
-  * [Meldung einer DSV an den LfD Sachsen-Anhalt](https://datenschutz.sachsen-anhalt.de/nc/service/online-formulare-des-landesbeauftragten/datenschutzverletzung/)
-  * [Word-Formular zur Meldung einer DSV an das TLfDI](https://www.tlfdi.de/mam/tlfdi/datenschutz/formular_zur_meldung_einer_datenpanne.docx)
+  * Brandenburg:
+  * Berlin:
+  * Bremen:
+  * Hamburg:
+  * Hessen:
+  * Mecklenburg-Vorpommern:
+  * Niedersachsen:
+  * Nordrhein-Westfalen:
+  * Rheinland-Pfalz: [Meldeformular des LfDI
+    Rheinland-Pfalz](https://www.datenschutz.rlp.de/de/themenfelder-themen/online-services/meldeformular-datenpanne-art-33-ds-gvo/)
+  * Saarland:
+  * Sachsen:
+  * Sachsen-Anhalt: [Meldung einer DSV an den LfD
+    Sachsen-Anhalt](https://datenschutz.sachsen-anhalt.de/nc/service/online-formulare-des-landesbeauftragten/datenschutzverletzung/)
+  * Schleswig-Holstein:
+  * Thüringen: [Word-Formular zur Meldung einer DSV an das TLfDI](https://www.tlfdi.de/mam/tlfdi/datenschutz/formular_zur_meldung_einer_datenpanne.docx)
 
 ### Europa
 
