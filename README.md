@@ -37,7 +37,7 @@ Datenschutz-Grundverordnung.
   * Berlin: [Meldeformular des BlnBDI](https://datenschutz-berlin.de//meldeformular.html)
   * Brandenburg: [Meldeformular des LDA
     Brandenburg](https://lda.brandenburg.de/cms/detail.php/bb1.c.233960.de/bbo_contact)
-  * Bremen:
+  * Bremen: [Meldeformular des LfDI Bremen](https://www.datenschutz.bremen.de/wir_ueber_uns/mitteilung_der_kontaktdaten_der_oder_des_datenschutzbeauftragten/datenschutzbeauftragter-15345)
   * Hamburg: [Informationen zur Meldung an das
     HmbBfDI](https://www.datenschutz-hamburg.de/datenschutz-fuer-firmen-und-behoerden/betrieblicher-datenschutz/dsb-meldeformular.html)
     ([PDF-Formular](https://www.datenschutz-hamburg.de/fileadmin/user_upload/documents/DSGVO/MeldeformularDSB.pdf))
