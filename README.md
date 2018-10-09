@@ -250,6 +250,7 @@ und Heimat](https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2018/04/faqs-dat
     (Orientierungshilfe des LfD BW)
   * [Webinar: Datenschutz-Grundverordnung für kleine
   Vereine mit Thomas Kranig, BayLDA](https://www.reparatur-initiativen.de/post/webinar-datenschutz-grundverordnung-fuer-kleine-vereine)
+  * [Datenschutz im Verein](https://www.ehrenamtsstiftung-mv.de/beratung/datenschutz) von der [Stiftung für Ehrenamt und bürgerschaftliches Engagement in Mecklenburg Vorpommern](https://www.ehrenamtsstiftung-mv.de/): https://www.ehrenamtsstiftung-mv.de/export/sites/ehrenamtstiftung/weiterbildung-austausch/publikationen/Leitfaden_Datenschutz_Orientierungshilfe-Vereine_web.pdf
 
 ## Blogs
 
