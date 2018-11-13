@@ -6,3 +6,4 @@
 * https://www.blogmojo.de/adv-vertraege/
 * https://www.blogmojo.de/dsgvo-checkliste/
 * https://regina-stoiber.com/2018/03/11/datenschutz-verfahrensverzeichnis-nach-artikel-30-dsgvo-mit-muster/
+* https://www.absolit.de/rechtslage/e-mail-marketing-und-die-dsgvo-orientierungshilfe-der-aufsichtsbehoerden
