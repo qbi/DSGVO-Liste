@@ -18,3 +18,14 @@ Solltet ihr weitere Hinweise haben, öffnet einen Issue oder schickt mir einen P
 
 
 ## Weitere Quellen
+
+  * Arbeitsrecht
+  * Sozialversicherungsrecht
+  * Produkthaftungsgesetz
+  * Apothekenbetriebsordnung
+  * Eichordnung
+  * Fahrlehrergesetz
+  * Gewerbeordnung
+  * Kreditwesengesetz (§ 26)
+  * Versicherungsaufsichtsgesetz (§ 55)
+  * Umsatzsteuergesetz
