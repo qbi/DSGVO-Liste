@@ -12,4 +12,4 @@
 * [Diese Datenschutz-Regeln gelten bei der Software-Auswahl ](https://www.handwerk.com/cloud-software-diese-dsgvo-regeln-gelten)
 * [ Der Adressverteiler als Geschäftsgeheimnis – Neues Gesetz sorgt für Handlungsbedarf](https://www.absolit.de/rechtslage/der-adressverteiler-als-geschaeftsgeheimnis-neues-gesetz-sorgt-fuer-handlungsbedarf)
 * [Kriterienkatalog für behördliche Prüfungen nach DSGVO veröffentlicht](https://www.reuschlaw.de/news/kriterienkatalog-fuer-behoerdliche-pruefungen-nach-dsgvo-veroeffentlicht/)
-
+* [Age appropriate design: a code of practice for online services](https://ico.org.uk/for-organisations/guide-to-data-protection/key-data-protection-themes/age-appropriate-design-a-code-of-practice-for-online-services/)
