@@ -14,3 +14,4 @@
 * [Kriterienkatalog für behördliche Prüfungen nach DSGVO veröffentlicht](https://www.reuschlaw.de/news/kriterienkatalog-fuer-behoerdliche-pruefungen-nach-dsgvo-veroeffentlicht/)
 * [Age appropriate design: a code of practice for online services](https://ico.org.uk/for-organisations/guide-to-data-protection/key-data-protection-themes/age-appropriate-design-a-code-of-practice-for-online-services/)
 * https://www.cnil.fr/sites/default/files/atoms/files/draft_recommendation_cookies_and_other_trackers_en.pdf
+* [Data protection und Brexit](https://ico.org.uk/for-organisations/data-protection-and-brexit/)
