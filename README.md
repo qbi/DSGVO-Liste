@@ -151,7 +151,7 @@ Arbeit.](https://www.ldi.nrw.de/mainmenu_Aktuelles/Inhalt/Mitteilungspflicht-der
 und Kleinunternehmer von Dr. Thomas Schwenke") ([Onion-Seite](https://4gavujr4u4prcbsn.onion/))
   * [Musterdatenschutzerklärung von Prof. Hören am  Institut für Informations-,
     Telekommunikations- und Medienrecht der Uni
-    Münster](https://www.uni-muenster.de/Jura.itm/hoeren/lehre/materialien/musterdatenschutzerklaerung)
+    Münster](https://www.itm.nrw/lehre/materialien/musterdatenschutzerklaerung/)
   * [Generator für DSGVO-konforme
  Muster-Datenschutzerklärung der Anwaltskanzlei Weiß & Partner](https://www.ratgeberrecht.eu/leistungen/muster-datenschutzerklaerung.html)
 
