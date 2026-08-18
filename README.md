@@ -260,6 +260,7 @@ und Heimat](https://www.bmi.bund.de/SharedDocs/kurzmeldungen/DE/2018/04/faqs-dat
   Recht](https://diercks-digital-recht.de/category/eu-dsgvo/)
 * [Kategorie DSGVO bei Rechtzweinull](http://www.rechtzweinull.de/archives/category/dsgvo)
 * [Kategorie Datenschutz beim Vienna Writer's Blog & PodCast](https://www.viennawriter.net/blog/category/datenschutz/) (Blog Serie zur DSGVO in AT.)
+* [Kategorie DSGVO bei Sartoris Consulting](https://www.dsb-datenschutz.de/datenschutz/wissen/)
 
 ## Podcasts
 
